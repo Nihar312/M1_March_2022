@@ -1,5 +1,6 @@
 #certificate
-*Basics of C Programming Certificate
-*Basics of Working on Linux OS and command line Interface
-*Getting started with git
-*First day on Github
+
+1. Basics of C Programming Certificate
+2. Basics of Working on Linux OS and command line Interface
+3. Getting started with git
+4. First day on Github
